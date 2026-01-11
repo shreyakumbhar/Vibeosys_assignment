@@ -1,0 +1,71 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+
+h2, h3, h4 {
+  color: #2c3e50;
+}
+
+
+input, select {
+  padding: 8px;
+  margin: 5px 10px 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  min-width: 150px;
+}
+
+button {
+  padding: 6px 12px;
+  margin: 5px;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  background-color: #fff;
+}
+
+table th, table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+table th {
+  background-color: #3498db;
+  color: white;
+}
+
+/* Material form card */
+.material-form {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 15px 0;
+  background-color: #ecf0f1;
+  border-radius: 6px;
+}
+
+/* Subtotal */
+.subtotal {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #e67e22;
+}
